@@ -1,7 +1,7 @@
 
 __I don't use this anymore, it's unsupported, use https://github.com/mozilla-neutrino/neutrino-dev__.
 
-# Frontend Boilerplate
+# Frontend Kit
 
 A boilerplate of things that mostly shouldn't exist.
 
@@ -37,10 +37,6 @@ $ npm start
 ```
 $ npm run build
 ```
-
-## Note
-
-My personal projects have diverged from this quite a bit, I use browserify now instead etc, but feel free to use this if it fits your needs! I won't be updating it a ton for now unless I have time to update it to match my current workflow.
 
 # License
 
